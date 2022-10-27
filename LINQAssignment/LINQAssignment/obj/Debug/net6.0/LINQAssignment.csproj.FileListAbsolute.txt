@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\LINQAssignment\LINQAssignment\obj\Debug\net6.0\LINQAssignment.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\LINQAssignment\LINQAssignment\obj\Debug\net6.0\LINQAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\LINQAssignment\LINQAssignment\obj\Debug\net6.0\LINQAssignment.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\LINQAssignment\LINQAssignment\obj\Debug\net6.0\LINQAssignment.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\LINQAssignment\LINQAssignment\obj\Debug\net6.0\LINQAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LINQAssignment\LINQAssignment\bin\Debug\net6.0\LINQAssignment.exe
+C:\Users\Administrator\source\repos\LINQAssignment\LINQAssignment\bin\Debug\net6.0\LINQAssignment.deps.json
+C:\Users\Administrator\source\repos\LINQAssignment\LINQAssignment\bin\Debug\net6.0\LINQAssignment.runtimeconfig.json
+C:\Users\Administrator\source\repos\LINQAssignment\LINQAssignment\bin\Debug\net6.0\LINQAssignment.dll
+C:\Users\Administrator\source\repos\LINQAssignment\LINQAssignment\bin\Debug\net6.0\LINQAssignment.pdb
+C:\Users\Administrator\source\repos\LINQAssignment\LINQAssignment\obj\Debug\net6.0\LINQAssignment.dll
+C:\Users\Administrator\source\repos\LINQAssignment\LINQAssignment\obj\Debug\net6.0\refint\LINQAssignment.dll
+C:\Users\Administrator\source\repos\LINQAssignment\LINQAssignment\obj\Debug\net6.0\LINQAssignment.pdb
+C:\Users\Administrator\source\repos\LINQAssignment\LINQAssignment\obj\Debug\net6.0\LINQAssignment.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\LINQAssignment\LINQAssignment\obj\Debug\net6.0\ref\LINQAssignment.dll
